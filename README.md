@@ -1,10 +1,10 @@
 # Projeto-MEME-GENERATOR
 
-Consiste em criar uma paleta de cores,e ao selecionar uma cor poder preencher o quadro de pixels
+Consiste em desenvolver uma página web onde seja possível criar memes, inserindo textos e imagens, os textos devem estar sobre as imagens.
 
 ## Requisitos
 * Criar página HTML e estilizar com CSS
-* Encontra e acessa elementos HTML via DOM
+* Existir um *input* para texto e imagens
 * Manipular o conteúdo da página via DOM quando ocorrer algum evento
 
 <img src="imgs/print.png">

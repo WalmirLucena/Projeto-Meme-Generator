@@ -1,4 +1,4 @@
-# Projeto-Pixel-Art
+# Projeto-MEME-GENERATOR
 
 Consiste em criar uma paleta de cores,e ao selecionar uma cor poder preencher o quadro de pixels
 
